@@ -1,0 +1,3 @@
+# PoczatekPrzygody
+
+Pierwsze kroki 
